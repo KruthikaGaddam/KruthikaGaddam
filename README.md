@@ -1,4 +1,3 @@
-# Kruthika_Gaddam
 # Hi there 👋 I'm Kruthika - Want to know more? Keep Scrolling!
 
 #### Hello folks 👋 I'm Kruthika, a **Dentist turned Data Analyst** with a passion for transforming healthcare data into actionable insights.
