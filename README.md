@@ -20,7 +20,7 @@
 From the precision of dental surgery to the precision of data analysis, it's been a fascinating transition!
 
 * **Master's in Health Informatics** @ Indiana University Indianapolis (Aug 2022 - May 2024)
-* **Bachelor's in Dental Surgery** @ Sri Balaji Dental College & Hospital (July 2016 - Oct 2020)
+* **Bachelor's in Dental Surgery** @ Sri Balaji Dental College & Hospital (Aug 2016 - Oct 2020)
 
 ###   Skills 🛠️
 
@@ -43,8 +43,8 @@ Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineer
 |   Job Position   |   Company   |   Work Period   |
 |   :---:   |   :---:   |   :---:   |
 |   **Data Analyst** |   **Indiana University Health** |   **July 2024 — Present**   |
-|   Graduate Teaching Assistant (Data Analytics)   |   Indiana University Indianapolis   |   Jan 2023 — May 2024   |
-|   Dental Informatics Intern   |   Sri Balaji Dental College & Hospital   |   Feb 2021 — Feb 2022   |
+|   Data Analytics Teaching Assistant   |   Indiana University Indianapolis   |   Jan 2023 — May 2024   |
+|   Clinical Data Analyst Intern   |   Sri Balaji Dental College & Hospital   |   Feb 2021 — Feb 2022   |
 |   Dental TeleHealth Consultant   |   Snazzy   |   Sep 2021 — Nov 2021   |
 
 ### Highlighted Projects 📂
