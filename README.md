@@ -50,7 +50,7 @@ Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineer
 ### Highlighted Projects 📂
 
 * **[Identifying Depression in Dementia Caregivers through ML & NLP (Capstone Project)](https://github.com/KruthikaGaddam/Estimating_the_Risk_of_Depression_among_Dementia_Caregivers__A_Feasibility_Study):** Developed an ensemble model with 82% accuracy for early intervention using Python, NLP, and machine learning. I also had the rewarding experience of presenting this as a poster at the **AMIA (American Medical Informatics Association)** conference 🔬.
-* **[Analysis and Predictive Modeling for Reporting Depression in US Adults](https://github.com/KruthikaGaddam/A-Comparative-Analysis-and-Predictive-Model-for-Reporting-Depression-in-U.S-Adults):** Built predictive models with an F1-score of 0.87 and 84% accuracy using Python and SQL, identifying key demographic predictors.
+* **[Analysis and Predictive Modeling for Reporting Depression in US Adults](https://github.com/KruthikaGaddam/A-Comparative-Analysis-and-Predictive-Model-for-Reporting-Depression-in-U.S-Adults):** Built predictive models with an 85% accuracy using Python and SQL, identifying key demographic predictors.
 ---
 
 <p align="center">
