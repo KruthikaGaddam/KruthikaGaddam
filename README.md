@@ -45,9 +45,8 @@ Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineer
 |   **Data Analyst** |   **Indiana University Health** |   **July 2024 — Present**   |
 |   Research Data Analyst (Capstone)   |   Indiana University Indianapolis   |   Jan 2024 — May 2024   |
 |   Data Analytics Teaching Assistant   |   Indiana University Indianapolis   |   Jan 2023 — May 2024   |
-|   Data Analytics Trainee |   Indiana University Indianapolis   |   Aug 2022 — Dec 2022   |
 |   Clinical Data Analyst   |   Sri Balaji Dental College & Hospital   |   Feb 2021 — Feb 2022   |
-|   TeleHealth Data Analyst   |   Snazzy   |   Sep 2021 — Nov 2021   |
+|   TeleHealth Consultant   |   Snazzy   |   Sep 2021 — Nov 2021   |
 
 ### Highlighted Projects 📂
 
