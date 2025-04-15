@@ -10,7 +10,7 @@
 
 ☕  When I'm not analyzing data, I enjoy Amateur Photography, learning new things, getting lost in a good book, relaxing with a favorite sitcom, taking short walks, and experimenting with cooking.
 
-⏳   I believe in the fascinating concept of **time relativity** – and that if we're truly passionate about what we do, the anticipation for weekends fades away.
+⏳   I believe in the fascinating concept of **time relativity** – when we're truly passionate about our work or anything we love to do, time seems to fly by unnoticed.
 
 📫   Let's connect! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kruthikagaddam/) or [Email](mailto:kruthikagaddam99@gmail.com).
 
@@ -27,7 +27,7 @@ From the precision of dental surgery to the precision of data analysis, it's bee
 * **Programming & Scripting:** Python (NumPy, Pandas, Matplotlib), R, SAS
 * **Databases:** SQL Server, MySQL, NoSQL, Snowflake
 * **Analytics & Tools:** Power BI, Tableau, Looker, Big Data and Deep Learning (Pyspark, PyTorch, Keras, Tensorflow),
-Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineering, ETL, Dashboards
+Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineering, ETL, Advanced Excel
 
 ### How I Work ⚙️
 
@@ -46,12 +46,12 @@ Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineer
 |   Research Data Analyst (Capstone)   |   Indiana University Indianapolis   |   Jan 2024 — May 2024   |
 |   Data Analytics Teaching Assistant   |   Indiana University Indianapolis   |   Jan 2023 — May 2024   |
 |   Clinical Data Analyst   |   Sri Balaji Dental College & Hospital   |   Feb 2021 — Feb 2022   |
-|   TeleHealth Consultant   |   Snazzy   |   Sep 2021 — Nov 2021   |
+|   Dental TeleHealth Consultant   |   Snazzy   |   Sep 2021 — Nov 2021   |
 
 ### Highlighted Projects 📂
 
 * **[Identifying Depression in Dementia Caregivers through ML & NLP (Capstone Project)](https://github.com/KruthikaGaddam/Estimating_the_Risk_of_Depression_among_Dementia_Caregivers__A_Feasibility_Study):** Developed an ensemble model with 82% accuracy for early intervention using Python, NLP, and machine learning. I also had the rewarding experience of presenting this as a poster at the **AMIA (American Medical Informatics Association)** conference 🔬.
-* **[Analysis and Predictive Modeling for Reporting Depression in US Adults](https://github.com/KruthikaGaddam/A-Comparative-Analysis-and-Predictive-Model-for-Reporting-Depression-in-U.S-Adults):** Built predictive models with an 85% accuracy using Python and SQL, identifying key demographic predictors.
+* **[Analysis and Predictive Modeling for Reporting Depression in US Adults](https://github.com/KruthikaGaddam/A-Comparative-Analysis-and-Predictive-Model-for-Reporting-Depression-in-U.S-Adults):** Built predictive models with an 85% accuracy using Python and SQL, identifying key demographic predictors to support scalable mental health screening and early risk identification.
 ---
 
 <p align="center">
