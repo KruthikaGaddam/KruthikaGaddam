@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Kruthika - Want to know more? Keep Scrolling!
 
-#### Hello folks 👋 I'm Kruthika, a **Dentist turned Data Analyst** with a passion for transforming healthcare data into actionable insights.
+#### Hello folks 👋 I'm Kruthika, a **Dentist turned Data Manager** with a passion for transforming healthcare data into actionable insights.
 
-📊   Currently, I'm leveraging my analytical skills as a **Data Analyst** at **Indiana University Health**, where I'm focused on driving data-driven improvements in healthcare outcomes.
+📊   Currently, I'm leveraging my analytical skills as a **Data Manager** at **Indiana University Health**, where I'm focused on driving data-driven improvements in healthcare outcomes.
 
 🌱   On a personal note, I'm currently diving deeper into the fascinating world of **Artificial Intelligence**.
 
@@ -42,7 +42,7 @@ Statistical Programming, Analytical Modeling, Machine Learning, Feature Engineer
 
 |   Job Position   |   Company   |   Work Period   |
 |   :---:   |   :---:   |   :---:   |
-|   **Data Analyst** |   **Indiana University Health** |   **July 2024 — Present**   |
+|   **Clinical Data Manager** |   **Indiana University Health** |   **July 2024 — Present**   |
 |   Research Data Analyst (Capstone)   |   Indiana University Indianapolis   |   Jan 2024 — May 2024   |
 |   Data Analytics Teaching Assistant   |   Indiana University Indianapolis   |   Jan 2023 — May 2024   |
 |   Clinical Data Analyst   |   Sri Balaji Dental College & Hospital   |   Feb 2021 — Feb 2022   |
